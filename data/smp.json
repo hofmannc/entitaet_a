@@ -1,0 +1,67 @@
+[
+  {
+    "question": "In welche Anwendungsklasse wird die Software eingeordnet?",
+    "set": "",
+    "values": "Anwendungsklasse 3: F\u00fcr die Software ist es wesentlich Fehler zu vermeiden und Risiken zu reduzieren. Dies gilt insbesondere f\u00fcr kritische Software und solche mit Produkteigenschaften."
+  },
+  {
+    "question": "Typ",
+    "set": "Set \"Person mit Orcid\"",
+    "values": "Person"
+  },
+  {
+    "question": "Typ",
+    "set": "Set \"Person ohne Orcid\"",
+    "values": "Person"
+  },
+  {
+    "question": "Typ",
+    "set": "Set \"Entit\u00e4t ohne Website\"",
+    "values": "Entit\u00e4t"
+  },
+  {
+    "question": "ORCID-Suche",
+    "set": "Set \"Person mit Orcid\"",
+    "values": "Romuald Wojnicz <a href=\"https://orcid.org/0000-0002-6385-2345\" target=\"_blank\" ><img src=\"/static/accounts/img/orcid_16x16.png?v=2.5.1\" alt=\"orcid logo\" /></a>"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"Person mit Orcid\"",
+    "values": "Wojnicz"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"Person ohne Orcid\"",
+    "values": "Dahme"
+  },
+  {
+    "question": "Rufname(n)",
+    "set": "Set \"Person mit Orcid\"",
+    "values": "Romuald"
+  },
+  {
+    "question": "Name",
+    "set": "Set \"Entit\u00e4t ohne Website\"",
+    "values": "entit\u00e4t a"
+  },
+  {
+    "question": "ORCID",
+    "set": "Set \"Person mit Orcid\"",
+    "values": "https://orcid.org/0000-0002-6385-2345"
+  },
+  {
+    "question": "Rolle",
+    "set": "Set \"Person mit Orcid\" Set #1",
+    "values": "Chief/prof."
+  },
+  {
+    "question": "Affiliation",
+    "set": "Set \"Person mit Orcid\" Set #1",
+    "values": "Medical University of Silesia"
+  },
+  {
+    "question": "ROR ID",
+    "set": "Set \"Person mit Orcid\" Set #1",
+    "values": "https://ror.org/005k7hp45"
+  }
+]
