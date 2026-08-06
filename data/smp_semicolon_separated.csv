@@ -1,0 +1,13 @@
+In welche Anwendungsklasse wird die Software eingeordnet?;;Anwendungsklasse 3: Für die Software ist es wesentlich Fehler zu vermeiden und Risiken zu reduzieren. Dies gilt insbesondere für kritische Software und solche mit Produkteigenschaften.
+Typ;"Set ""Person mit Orcid""";Person
+Typ;"Set ""Person ohne Orcid""";Person
+Typ;"Set ""Entität ohne Website""";Entität
+ORCID-Suche;"Set ""Person mit Orcid""";"Romuald Wojnicz <a href=""https://orcid.org/0000-0002-6385-2345"" target=""_blank"" ><img src=""/static/accounts/img/orcid_16x16.png?v=2.5.1"" alt=""orcid logo"" /></a>"
+Familienname(n);"Set ""Person mit Orcid""";Wojnicz
+Familienname(n);"Set ""Person ohne Orcid""";Dahme
+Rufname(n);"Set ""Person mit Orcid""";Romuald
+Name;"Set ""Entität ohne Website""";entität a
+ORCID;"Set ""Person mit Orcid""";https://orcid.org/0000-0002-6385-2345
+Rolle;"Set ""Person mit Orcid"" Set #1";Chief/prof.
+Affiliation;"Set ""Person mit Orcid"" Set #1";Medical University of Silesia
+ROR ID;"Set ""Person mit Orcid"" Set #1";https://ror.org/005k7hp45
