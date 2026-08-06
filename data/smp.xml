@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2026-08-06T15:56:21.590522+02:00" required="2.1.0" version="2.5.1">
+	<title>entität_person</title>
+	<description/>
+	<catalog dc:uri="https://rdmorganiser.github.io/terms/questions/smp"/>
+	<tasks>
+		<task dc:uri="https://rdmo.mpdl.mpg.de/terms/tasks/determine_smp_versioning_tool"/>
+	</tasks>
+	<views>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/terms/views/smp-citation"/>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/terms/views/smp-codemeta"/>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/terms/views/smp-readme"/>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/terms/views/smp-report"/>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/views/FAIR4RSview"/>
+	</views>
+	<values>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/affiliation"/>
+			<set_prefix>0</set_prefix>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Medical University of Silesia</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:52:35.881530+02:00</created>
+			<updated>2026-08-06T15:52:35.881533+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/affiliation/ror-id"/>
+			<set_prefix>0</set_prefix>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>https://ror.org/005k7hp45</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:52:35.884858+02:00</created>
+			<updated>2026-08-06T15:52:35.884861+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/family-name"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Wojnicz</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:52:35.503858+02:00</created>
+			<updated>2026-08-06T15:52:35.503863+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/family-name"/>
+			<set_prefix/>
+			<set_index>1</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Dahme</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:55:14.651755+02:00</created>
+			<updated>2026-08-06T15:55:14.651759+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/given-name"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Romuald</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:52:35.410193+02:00</created>
+			<updated>2026-08-06T15:52:35.410200+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/orcid"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>https://orcid.org/0000-0002-6385-2345</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:52:35.315565+02:00</created>
+			<updated>2026-08-06T15:52:35.315572+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/orcid-autocomplete"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Romuald Wojnicz &lt;a href="https://orcid.org/0000-0002-6385-2345" target="_blank" &gt;&lt;img src="/static/accounts/img/orcid_16x16.png?v=2.5.1" alt="orcid logo" /&gt;&lt;/a&gt;</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id>0000-0002-6385-2345</external_id>
+			<created>2026-08-06T15:52:33.983171+02:00</created>
+			<updated>2026-08-06T15:52:33.983175+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/role"/>
+			<set_prefix>0</set_prefix>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Chief/prof.</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:52:35.877551+02:00</created>
+			<updated>2026-08-06T15:52:35.877556+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/type"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text/>
+			<option dc:uri="https://rdmo.mpdl.mpg.de/terms/options/partner-types/person"/>
+			<file/>
+			<value_type>option</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:52:22.958306+02:00</created>
+			<updated>2026-08-06T15:52:35.222228+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/type"/>
+			<set_prefix/>
+			<set_index>1</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text/>
+			<option dc:uri="https://rdmo.mpdl.mpg.de/terms/options/partner-types/person"/>
+			<file/>
+			<value_type>option</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:55:08.804074+02:00</created>
+			<updated>2026-08-06T15:55:08.804077+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/type"/>
+			<set_prefix/>
+			<set_index>2</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text/>
+			<option dc:uri="https://rdmo.mpdl.mpg.de/terms/options/partner-types/entity"/>
+			<file/>
+			<value_type>option</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:55:27.232485+02:00</created>
+			<updated>2026-08-06T15:55:27.232489+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/partner/id"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Person mit Orcid</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:52:21.041541+02:00</created>
+			<updated>2026-08-06T15:52:21.041546+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/partner/id"/>
+			<set_prefix/>
+			<set_index>1</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Person ohne Orcid</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:53:08.038360+02:00</created>
+			<updated>2026-08-06T15:53:08.038363+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/partner/id"/>
+			<set_prefix/>
+			<set_index>2</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>Entität ohne Website</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:55:25.587448+02:00</created>
+			<updated>2026-08-06T15:55:25.587454+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/partner/name"/>
+			<set_prefix/>
+			<set_index>2</set_index>
+			<set_collection>True</set_collection>
+			<collection_index>0</collection_index>
+			<text>entität a</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:55:30.271239+02:00</created>
+			<updated>2026-08-06T15:55:34.528706+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/application-class"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/application-class/3"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-06T15:52:01.840570+02:00</created>
+			<updated>2026-08-06T15:52:01.840575+02:00</updated>
+		</value>
+	</values>
+	<created>2026-08-06T15:51:45.229126+02:00</created>
+	<updated>2026-08-06T15:55:30.592813+02:00</updated>
+</project>
